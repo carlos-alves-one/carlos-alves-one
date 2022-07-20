@@ -20,13 +20,13 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carlos-alves-one&label=Profile%20views&color=0e75b6&style=flat" alt="carlos-alves-one" /> </p>
 
-- 🔭 I’m currently working on the final assignment in Java for Goldsmiths University of London - BSc Computer Science
+- 🔭 I’m currently writing my Bachelor Thesis in Computer Science for Goldsmiths University of London
 
 - 🌱 I’m currently learning **advanced algorithms, artificial intelligence, machine learning and neural networks**
 
 - 👨‍💻 All of my projects are available at **www.carlosalves.me** (working with AWS to release site)
 
-- 💬 My favorite quote: **"The best time to plant a tree is 30 years ago. The second best time is now."**
+- 💬 My favorite quote: **"The best time to plant a tree is 26 years ago. The second best time is now."**
 
 - 📫 How to reach me **carlos.alves.one@gmail.com**
 
