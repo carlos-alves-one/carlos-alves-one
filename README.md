@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carlos-alves-one&label=Profile%20views&color=0e75b6&style=flat" alt="carlos-alves-one" /> </p>
 
-- 🔭 I’m currently working on the final assignment in Java for Goldsmiths University of London - BSc (Hons) Computer Science
+- 🔭 I’m currently working on the final assignment in Java for Goldsmiths University of London - BSc Computer Science
 
 - 🌱 I’m currently learning **advanced algorithms, artificial intelligence, machine learning and neural networks**
 
