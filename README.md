@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **advanced algorithms, artificial intelligence, machine learning and neural networks**
 
-- 👨‍💻 All of my projects are available at **www.carlosalves.me** (working with AWS to release site)
+- 👨‍💻 All of my projects are available at **www.carlosalves.me** (work in progress with AWS)
 
 - 💬 My favorite quote: **"The best time to plant a tree is 26 years ago. The second best time is now."**
 
