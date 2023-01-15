@@ -20,17 +20,17 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carlos-alves-one&label=Profile%20views&color=0e75b6&style=flat" alt="carlos-alves-one" /> </p>
 
-- 🔭 I’m currently writing my Bachelor Thesis in Computer Science for Goldsmiths University of London
+- 🔭 I am in the process of completing my Bachelor's Thesis in Computer Science at Goldsmiths University of London.
 
-- 🌱 I’m currently learning **advanced algorithms, artificial intelligence, machine learning and neural networks**
+- 🌱 I am currently expanding my knowledge and skills in Advanced Algorithms, Artificial Intelligence, Machine Learning and Artificial Neural Networks.
 
 - 👨‍💻 All of my projects are available at **https://carlos-alves-one.github.io/**
 
-- 💬 My favorite quote: **"The best time to plant a tree is 30 years ago. The second best time is now."**
+- 💬 My favorite quote: **"The optimal time to plant a tree was 30 years ago. The next best opportunity is the present moment."**
 
 - 📫 How to reach me **carlos.alves.one@gmail.com**
 
-- ⚡ Fun fact: **The first programming language was called FORTRAN - It was developed by a team lead by Mr. John Backus, an American computer scientist. First appearing in 1964, FORTRAN is still in use today, predominantly helping computer scientists to conduct complex tests in areas such as numerical weather prediction, geophysics, crystallography, and computational chemistry.**
+- ⚡ Fun fact: **The first programming language, FORTRAN, was developed by a team lead by Mr. John Backus, an American computer scientist. Its first appearance was in 1964, and it is still in use today, primarily assisting computer scientists in conducting complex simulations in fields such as numerical weather prediction, geophysics, crystallography, and computational chemistry.**
 
 <h3 align="left">Connect with me</h3>
 <a align="left">
