@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🔭 I am in the process of completing my Bachelor's Thesis in Computer Science at Goldsmiths University of London.
 
-- 🌱 I am currently expanding my knowledge and skills in Advanced Algorithms, Artificial Intelligence, Machine Learning and Artificial Neural Networks.
+- 🌱 I am currently expanding my knowledge and skills in Advanced Algorithms, Data Mining, Artificial Intelligence, Machine Learning and Artificial Neural Networks.
 
 - 👨‍💻 All of my projects are available at **https://carlos-alves-one.github.io/**
 
