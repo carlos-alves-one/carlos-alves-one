@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🔭 I am currently completing my Bachelor's degree in Computer Science at Goldsmiths University of London and am preparing to further my studies with a Master's degree in Data Science and Artificial Intelligence in the next stage of my academic journey.
 
-- 🌱 I am currently expanding my knowledge and skills in Advanced Algorithms, Data Mining, Artificial Intelligence, Machine Learning and Artificial Neural Networks.
+- 🌱 I am currently expanding my knowledge and skills in Advanced Algorithms, Statistics, Data Mining, Artificial Intelligence, Machine Learning and Artificial Neural Networks.
 
 - 👨‍💻 All of my projects are available at **https://carlos-alves-one.github.io/**
 
