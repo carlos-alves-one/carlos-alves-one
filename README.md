@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carlos-alves-one&label=Profile%20views&color=0e75b6&style=flat" alt="carlos-alves-one" /> </p>
 
-- 🔭 I am in the process of completing my Bachelor's Thesis in Computer Science at Goldsmiths University of London.
+- 🔭 I am currently completing my Bachelor's degree in Computer Science at Goldsmiths University of London and am preparing to further my studies with a Master's degree in Data Science and Artificial Intelligence in the next stage of my academic journey.
 
 - 🌱 I am currently expanding my knowledge and skills in Advanced Algorithms, Data Mining, Artificial Intelligence, Machine Learning and Artificial Neural Networks.
 
