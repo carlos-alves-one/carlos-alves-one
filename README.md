@@ -18,11 +18,9 @@ Here are some ideas to get you started:
 <h1 align="left">Hi, I'm Carlos 👋</h1>
 <h3 align="left">A Passionate Artificial Intelligence Researcher</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=carlos-alves-one&label=Profile%20views&color=0e75b6&style=flat" alt="carlos-alves-one" /> </p>
+- 🔭 I have completed my Master's degree in Data Science and Artificial Intelligence at Goldsmiths University of London.
 
-- 🔭 I am currently doing my Master's degree in Data Science and Artificial Intelligence at Goldsmiths University of London.
-
-- 🌱 I am currently expanding my knowledge and skills in Advanced Algorithms, Statistics, Data Mining, Artificial Intelligence, Machine Learning and Artificial Neural Networks.
+- 🌱 My thesis project created a machine learning model for short-term solar energy forecasting using Apache Spark and weather data. It aimed to improve solar energy management through accurate predictions, leveraging distributed computing and various ML algorithms to enhance weather forecasting in the energy sector.
 
 - 👨‍💻 All of my projects are available at **https://carlos-alves-one.github.io/**
 
