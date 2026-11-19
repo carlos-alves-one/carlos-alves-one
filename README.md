@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🌱 My thesis project created a machine learning model for short-term solar energy forecasting using Apache Spark and weather data. It aimed to improve solar energy management through accurate predictions, leveraging distributed computing and various ML algorithms to enhance weather forecasting in the energy sector.
 
-- 👨‍💻 All of my projects are available at **https://carlos-alves-one.github.io/**
+- 👨‍💻 All of my projects are available at **https://carlosalves.uk/**
 
 - 💬 My favorite quote: **"The optimal time to plant a tree was 30 years ago. The next best opportunity is the present moment."**
 
